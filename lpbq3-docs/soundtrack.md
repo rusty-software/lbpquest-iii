@@ -1,16 +1,23 @@
 # Scott Buckley
 ## Good candidates
-- Age of Wonder
-- Terminus
-- Legionnaire (2022 Remaster)
-- Discovery
-- Soar
+### General
+- In Dreams ***
+- Age of Wonder ***
+- Discovery **
+- Terminus *
+
+### Overworld/Travel
+- Wanderlust ***
+- Soar **
+
+### Combat
+- Legionnaire (2022 Remaster) ***
+- Pursuit ***
+
+### Uncategorized
 - Sanctuary
 - Life In Silico
-- Wanderlust
-- In Dreams
-- 
-- Pursuit
+- Into The Unknown
 - 
 
 ## Depending on mood
