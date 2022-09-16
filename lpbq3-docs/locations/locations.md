@@ -16,7 +16,7 @@
 - Possum Kingdom Lake LBJ
 - Possum Kingdom Lake Travis
 - Possum Kingdom Lake Possum
-- Sky Camper (only accessible via the airship?)
+- Sky Camper 
 - Broken Bows
 - King's Land
 
