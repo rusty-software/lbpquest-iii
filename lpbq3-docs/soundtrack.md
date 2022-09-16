@@ -2,6 +2,8 @@
 ## Good candidates
 ### General
 - In Dreams ***
+	- USED on New Game, Credits
+	- TO DO on End Game
 - Age of Wonder ***
 - Discovery **
 - Terminus *
@@ -9,10 +11,15 @@
 ### Overworld/Travel
 - Wanderlust ***
 - Soar **
+- 
+- Pathfinder
 
 ### Combat
 - Legionnaire (2022 Remaster) ***
 - Pursuit ***
+- 
+- Juggernaut
+- Goliath
 
 ### Uncategorized
 - Sanctuary
@@ -58,6 +65,3 @@
 - 
 - Sarsaparilla
 - Air
-
-
-Heya Scott! This is rustybentley from twitch, and I actually had a question for you that I completely forgot to ask. For tracks you've made available under CC BY 4.0, do they have to be used in the available formats? For example, "In Dreams" is available as .mp3, but could it be converted to .ogg for use in a non-commercial video game?
