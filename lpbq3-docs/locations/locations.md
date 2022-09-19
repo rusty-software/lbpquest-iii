@@ -4,10 +4,10 @@
 
 # Castles
 - Castle Cantera
-- Whitney Mansion
+- Drought Whitney
 
 # Dungeons
-- Pools of Boiling Lobsters
+- Pimpy Lobster Boil
 - Gulch Coast
 - Lost Tail Hunting Ranch
 - White Creek Hurting Ranch
@@ -18,7 +18,7 @@
 - Possum Kingdom Lake Possum
 - Sky Camper 
 - Broken Bows
-- King's Land
+- Mantt Downs
 
 # Actual locations
 1. Todd’s bachelor party (How Red was Phil anyway?) (2000) 
@@ -43,21 +43,3 @@
 20. Casa Cantera II (5Loko) (2019) 
 21. Bryan, TX (Zebra Bamboozle) (2021) 
 22. Lost Creek Hunting Ranch (Pig Down) (2022)
-
-
-
-Castle Britannia
-
-Britain
-Yew
-Montor East
-Montor West
-Grey
-Dawn
-Devil Guard
-Fawn
-Death Gulch
-
-Ambrosia
-
-Castle Exodus

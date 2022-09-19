@@ -1,10 +1,34 @@
 # Scott Buckley
-## Good candidates
-### General
-- In Dreams ***
-	- USED on New Game, Credits
+## Used
+- In Dreams
+	- New Game, Credits
+- Passage of Time
+	- Character creation
+- Age of Wonder
 	- TO DO on End Game
-- Age of Wonder ***
+	
+## Good candidates
+- Catalyst: combat? dungeon?
+- Discovery: overland? town?
+- Felicity: town
+- Glow: Broken Bows
+- Goliath: combat? dungeon?
+- Horizons: town?
+- Into The Unknown: dungeon
+- Juggernaut: boss combat? dungeon?
+- Legionnaire: boss combat
+- Life In Silico: town
+- Pathfinder: boat/ship
+- Pursuit: out, due to too techno
+- Sanctuary: sad town?
+- Soar: airship
+- Terminus: i like this tune, but not sure where to use it
+- The Miracle of Flight: ???
+- Wanderlust: overland
+- Wayfarer: i like this tune as well...
+- Where Stars Fall: ???
+  
+### General
 - Discovery **
 - Terminus *
 
@@ -12,7 +36,6 @@
 - Wanderlust ***
 - Soar **
 - 
-- Pathfinder
 
 ### Combat
 - Legionnaire (2022 Remaster) ***
@@ -20,6 +43,7 @@
 - 
 - Juggernaut
 - Goliath
+- Pathfinder
 
 ### Uncategorized
 - Sanctuary
@@ -30,7 +54,6 @@
 ## Depending on mood
 - Horizons
 - Aurora
-- Passage of Time
 - Glow
 - This Too Shall Pass
 - Bring Me The Sky
