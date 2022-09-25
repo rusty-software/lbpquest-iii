@@ -1,24 +1,29 @@
 
 # Final area
-- Mother Neff Texas Safari
+- Mother Neff Texas Safari (8, 90)
 
 # Castles
-- Castle Cantera
-- Drought Whitney
+- Castle Cantera (36, 10)
+- Drought Whitney (51, 90)
 
 # Dungeons
-- Pimpy Lobster Boil
-- Gulch Coast
-- Lost Tail Hunting Ranch
-- White Creek Hurting Ranch
+- Pimpy Lobster Boil (24, 50)
+- Gulch Coast (62, 68)
+- Lost Tail Hunting Ranch (16, 63)
+- White Creek Hurting Ranch (74, 36)
 
 # Towns
-- Possum Kingdom Lake LBJ
-- Possum Kingdom Lake Travis
-- Possum Kingdom Lake Possum
-- Sky Camper 
-- Broken Bows
-- Mantt Downs
+- Possum Kingdom Lake LBJ (52, 49)
+- Possum Kingdom Lake Travis (50, 78)
+- Possum Kingdom Lake Possum (47, 33)
+- Sky Camper (18, 51)
+- Broken Bows (68, 23)
+- Mantt Downs (71, 50)
+
+# Interesting coordinates
+69,69
+50,50
+33,33
 
 # Actual locations
 1. Todd’s bachelor party (How Red was Phil anyway?) (2000) 

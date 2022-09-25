@@ -10,7 +10,7 @@
 ## Good candidates
 - Catalyst: combat? dungeon?
 - Discovery: overland? town?
-- Felicity: town
+- Felicity: town? CASTLE?
 - Glow: Broken Bows
 - Goliath: combat? dungeon?
 - Horizons: town?

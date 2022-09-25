@@ -2,8 +2,13 @@
 # Plot
 An AI that was trained on agendas and stories about LBP creates a fantasy world in LBPers can experience LBP Erry Day.
 
-# Requirements
+# Points
 - Gate Code Keys must be inserted into the Gate Code in the proper order 
+- boat can be purchased
+- something required to acquire the ship
+- something required to acquire the airship
+- Best armor (General armor) found at coordinate
+- Best weapons found in a couple of collections at various coordinates
 
 # Elements of LBP
 ## Games
@@ -34,4 +39,4 @@ An AI that was trained on agendas and stories about LBP creates a fantasy world 
 
 # Story
 - Player arrives in Terra LBP understanding that there's a quest to save LBP from "something"
-- 
+- Find the sextup to find locations 
