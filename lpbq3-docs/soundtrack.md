@@ -1,31 +1,28 @@
 # Scott Buckley
 ## Used
-- In Dreams
-	- New Game, Credits
-- Passage of Time
-	- Character creation
-- Age of Wonder
-	- TO DO on End Game
+- In Dreams: New Game, Credits
+- Passage of Time: Character creation
+- Pathfinder: boat/ship
+- Sanctuary:  castle
+- Wanderlust: overland
+### TODO
+- Age of Wonder:  End Game
+- Soar: airship
+- Glow: Broken Bows (town)
+- Life In Silico: town
+- Wayfarer: i like this tune as well...
+- Goliath: combat? dungeon?
+- Juggernaut: boss combat? dungeon?
+- Legionnaire: boss combat
 	
 ## Good candidates
 - Catalyst: combat? dungeon?
 - Discovery: overland? town?
-- Felicity: town? CASTLE?
-- Glow: Broken Bows
-- Goliath: combat? dungeon?
+- Felicity: town? 
 - Horizons: town?
 - Into The Unknown: dungeon
-- Juggernaut: boss combat? dungeon?
-- Legionnaire: boss combat
-- Life In Silico: town
-- Pathfinder: boat/ship
-- Pursuit: out, due to too techno
-- Sanctuary: sad town?
-- Soar: airship
 - Terminus: i like this tune, but not sure where to use it
 - The Miracle of Flight: ???
-- Wanderlust: overland
-- Wayfarer: i like this tune as well...
 - Where Stars Fall: ???
   
 ### General
