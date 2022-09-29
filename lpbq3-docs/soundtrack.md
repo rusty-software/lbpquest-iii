@@ -1,19 +1,19 @@
 # Scott Buckley
 ## Used
 - In Dreams: New Game, Credits
+- Legionnaire: default combat
 - Passage of Time: Character creation
 - Pathfinder: boat/ship
+- Soar: airship
 - Sanctuary:  castle
 - Wanderlust: overland
 ### TODO
 - Age of Wonder:  End Game
-- Soar: airship
 - Glow: Broken Bows (town)
 - Life In Silico: town
 - Wayfarer: i like this tune as well...
 - Goliath: combat? dungeon?
 - Juggernaut: boss combat? dungeon?
-- Legionnaire: boss combat
 	
 ## Good candidates
 - Catalyst: combat? dungeon?

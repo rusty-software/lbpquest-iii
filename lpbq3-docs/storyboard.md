@@ -5,15 +5,15 @@ An AI that was trained on agendas and stories about LBP creates a fantasy world 
 # Points
 - Gate Code Keys must be inserted into the Gate Code in the proper order 
 - boat can be purchased
-- something required to acquire the ship
-- something required to acquire the airship
+- defeat the canoe captain required to acquire the ship (captain's hat?)
+- something required to acquire the airship (pilot goggles)
 - Best armor (General armor) found at coordinate
 - Best weapons found in a couple of collections at various coordinates
 
 # Elements of LBP
 ## Games
 - Mafia
-- Poker
+- Cash game
 - Axis and Allies
 - Settlers of Catan
 - Golf
@@ -29,6 +29,9 @@ An AI that was trained on agendas and stories about LBP creates a fantasy world 
 - Cheetos
 - Guac
 - PSD
+- Nutter Butters
+- Star Crunch
+- Mother's
 ## Movies
 - NRNS
 - Rounders
