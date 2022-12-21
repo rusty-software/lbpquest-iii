@@ -4,6 +4,11 @@
 
 # Castles
 - Castle Cantera (36, 10)
+	- King Sland is here
+		- Warns of strange changes, how all that was best about LBP is now evil
+		- Encourages the player to explore and find friends to help set things right
+	- Brucie is here, will join the party if they can get his wooden dolly back
+	- Dojo inside where Dean has taken Brucie's wooden dolly
 - Drought Whitney (51, 90)
 
 # Dungeons
@@ -23,7 +28,6 @@
 # Interesting coordinates
 69,69
 50,50
-33,33
 
 # Actual locations
 1. Todd’s bachelor party (How Red was Phil anyway?) (2000) 

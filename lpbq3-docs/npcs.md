@@ -3,6 +3,7 @@ King Sland
 RJ
 Kellie
 Dean
+Dad
 Scott
 Russian
 
@@ -16,3 +17,6 @@ Cartgirl
 Dave Matthews
 Chris Martin
 
+John Wick
+
+Teddy KGB

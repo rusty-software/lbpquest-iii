@@ -7,8 +7,8 @@ An AI that was trained on agendas and stories about LBP creates a fantasy world 
 - boat can be purchased
 - defeat the canoe captain required to acquire the ship (captain's hat?)
 - something required to acquire the airship (pilot goggles)
-- Best armor (General armor) found at coordinate
-- Best weapons found in a couple of collections at various coordinates
+- Best armor (General armor) found at coordinate 50, 50
+- Best weapons found in a couple of collections at various coordinates 69,69
 
 # Elements of LBP
 ## Games
