@@ -15,13 +15,14 @@
 - Pimpy Lobster Boil (24, 50)
 - Gulch Coast (62, 68)
 - Lost Tail Hunting Ranch (16, 63)
-- White Creek Hurting Ranch (74, 36)
+- White Creek Hurting Lodge (74, 36)
 
 # Towns
 - Possum Kingdom Lake LBJ (52, 49)
 - Possum Kingdom Lake Travis (50, 78)
 - Possum Kingdom Lake Possum (47, 33)
 - Sky Camper (18, 51)
+	- Shop sells highest end weapons, armor, and items
 - Broken Bows (68, 23)
 - Mantt Downs (71, 50)
 

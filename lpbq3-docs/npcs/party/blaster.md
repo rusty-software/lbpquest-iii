@@ -1,0 +1,2 @@
+#location [[sky-camper]]
+- sorcerer

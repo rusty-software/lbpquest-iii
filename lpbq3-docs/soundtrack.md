@@ -1,27 +1,28 @@
 # Scott Buckley
 ## Used
+- Catalyst: Lost Tail Hunting Lodge
+- Discovery: White Creek Hurting Lodge
+- Felicity: Drought Whitney
+- Glow: towns
 - In Dreams: New Game, Credits
+- Into The Unknown: Gulch Coast
+- Juggernaut: Mother Neff
 - Legionnaire: default combat
+- Life In Silico: default town
 - Passage of Time: Character creation
 - Pathfinder: boat/ship
+- Sanctuary:  castle canterra
 - Soar: airship
-- Sanctuary:  castle
 - Wanderlust: overland
+- Wayfarer: Mantt Downs Seer
+
 ### TODO
 - Age of Wonder:  End Game
-- Glow: Broken Bows (town)
-- Life In Silico: town
-- Wayfarer: i like this tune as well...
-- Goliath: combat? dungeon?
-- Juggernaut: boss combat? dungeon?
+- Goliath: boss combat
+- Terminus: Pimpy Lobster Boil
 	
 ## Good candidates
-- Catalyst: combat? dungeon?
-- Discovery: overland? town?
-- Felicity: town? 
 - Horizons: town?
-- Into The Unknown: dungeon
-- Terminus: i like this tune, but not sure where to use it
 - The Miracle of Flight: ???
 - Where Stars Fall: ???
   

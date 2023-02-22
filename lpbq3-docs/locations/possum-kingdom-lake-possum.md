@@ -1,0 +1,2 @@
+- boatman
+- random treasure (regular quality)
