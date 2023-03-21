@@ -1,2 +1,0 @@
-#location [[mantt-downs]]
-- priest

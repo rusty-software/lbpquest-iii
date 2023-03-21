@@ -1,1 +1,0 @@
-#location [[white-creek-hurting-lodge]]
