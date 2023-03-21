@@ -1,25 +1,28 @@
 # Scott Buckley
 ## Used
-- Catalyst: Lost Tail Hunting Lodge
-- Discovery: White Creek Hurting Lodge
+- Age of Wonder:  End Game
+- An Unexpected Party: Possum Kingdom Lake Travis
+- Castles In The Sky: Broken Bows
+- Catalyst: White Creek Hurting Lodge
+- Discovery: Lost Tail Hunting Ranch
 - Felicity: Drought Whitney
-- Glow: towns
+- Glow: Mantt Downs
+- Golden Hour: Sky Camper
+- Goliath: boss combat
 - In Dreams: New Game, Credits
 - Into The Unknown: Gulch Coast
 - Juggernaut: Mother Neff
 - Legionnaire: default combat
-- Life In Silico: default town
+- Life In Silico: Possum Kingdom Lake LBJ
 - Passage of Time: Character creation
 - Pathfinder: boat/ship
 - Sanctuary:  castle canterra
 - Soar: airship
+- Terminus: Pimpy Lobster Boil
+- Tomorrow: Possum Kingdom Lake Possum
 - Wanderlust: overland
 - Wayfarer: Mantt Downs Seer
 
-### TODO
-- Age of Wonder:  End Game
-- Goliath: boss combat
-- Terminus: Pimpy Lobster Boil
 	
 ## Good candidates
 - Horizons: town?

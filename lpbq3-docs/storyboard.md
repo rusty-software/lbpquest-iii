@@ -1,32 +1,11 @@
 # TODO
+## bugs
+
 ## general
-- buried treasures!
-- bars should have "local" gossip 
-    - hints about gate code cubes
-- dungeons
-- end castle
-- zones 
-- enemies/troops
-
-## Castle Canterra
-- add value to suzie
-- add more value to kelly
-
-## Mantt Downs
-- finish Seer
-    - hint system?
-    - hints about gate codes
+- set game settings to walk, no auto-battle, etc
 
 
 # NOTES
-## map ids
-overworld: 1
-plk possum: 10
-sky camper: 6
-broken bows: 4
-mantt downs: 9
-generic inn: 8
-generic item shop: 13
 
 # Plot
 An AI that was trained on agendas and stories about LBP creates a fantasy world in LBPers can experience LBP Erry Day.
@@ -38,7 +17,7 @@ An AI that was trained on agendas and stories about LBP creates a fantasy world 
 - gate code numbers
 
 # Points
-- Gate Code Keys must be inserted into the Gate Code in the proper order 
+- [x] Gate Code Keys must be inserted into the Gate Code in the proper order 
 - [x] boat can be purchased
 - defeat the canoe captain required to acquire the ship (captain's hat?)
 - something required to acquire the airship (pilot goggles)
@@ -47,33 +26,51 @@ An AI that was trained on agendas and stories about LBP creates a fantasy world 
 
 # Elements of LBP
 ## Games
-- Mafia
-- Cash game
+- [x] Mafia
+- Poker cash game
 - Axis and Allies
 - Settlers of Catan
-- Golf
+- Spades
+- D&D
+- [x] Golf
 ## Drinks
-- Margs
-- Beer
+- [x] Margs
+- [x] Beer
+- [x] Ciders
+- [x] Whiskey
+- [x] Vitamix
 ## Main eats
-- Brisket
-- Earls
-- Steaks
+- [x] Brisket
+- [x] Earls
+- [x] Steaks
+- [x] Burgers
+- [x] Deli lunch meat
+- [x] Eggs, biscuits and gravy
+- [x] Bacon
+- [x] Fajitas
 ## Snacks
-- Jalepeno poppers
-- Cheetos
-- Guac
-- PSD
-- Nutter Butters
-- Star Crunch
-- Mother's
+- [x] Jalepeno poppers
+- [x]  Cheetos
+- [x] Guac
+- [x] PSD
+- [x] Nutter Butters
+- [x] Star Crunch
+- [x] Mother's Oatmeal
+- [x] Oreos
 ## Movies
-- NRNS
-- Rounders
-- John Wick
+- [x] NRNS
+- [x] Rounders
+- [x] John Wick
 ## Misc
 - Arts and crafts
-- Swimming
+- [x] Swimming
+- Porn
+- [x] Work
+- Sports TV
+- [x] Boating/pontoon
+    - [x]  kayak
+- [x] Punky Brewster
+- [x] Chris Martin
 
 # Story
 - Player arrives in Terra LBP understanding that there's a quest to save LBP from "something"
